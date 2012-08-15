@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ortho" default="compile" basedir="." >
+
+	<!-- Définition du classpath. -->
+	<path id="myCLASSPATH">
+		<pathelement location="class" />
+	</path>
+
+	<!-- Initialisation. -->
+	<target name="init" description="initialise l'environnement de travail." >
+		<mkdir dir="class/" />
+		<mkdir dir="doc/" />
+		<mkdir dir="ww/" />
+	</target>
+
+	<!-- Compilation du projet -->
+	<target name="compile" description="compile le projet." >
+		<javac destdir="class/" debug="true" verbose="false" encoding="UTF-8" includeantruntime="false">
+			<classpath refid="myCLASSPATH"/>
+			<src path="src/"/>
+		</javac>
+	</target>
+
+	<!-- Génération de la documentation HTML -->
+	<target name="javadoc" depends="cleanDoc" description="génère la documentation du projet." >
+		<javadoc destdir="doc/" version="true" use="true" private="true" >
+			<fileset dir="src/" defaultexcludes="yes">
+				<exclude name="**/Readme"/>
+				<exclude name="**/*.sh"/>
+				<exclude name="**/*.swp"/>
+				<exclude name="**/*.gif"/>
+				<exclude name="**/*.wav"/>
+				<exclude name="**/TODO"/>
+			</fileset>
+			<classpath refid="myCLASSPATH"/>
+		</javadoc>
+	</target>
+
+	<!-- Supression du dossier de doc. -->
+	<target name="cleanDoc" description="supprime les fichiers de documentation." >
+		<delete includeEmptyDirs="true">
+			<fileset dir="doc/" includes="**/*"/>
+		</delete>
+	</target>
+
+	<!-- Supression du dossier class. -->
+	<target name="cleanClass" description="supprime les fichiers de class." >
+		<delete includeEmptyDirs="true">
+			<fileset dir="class/" includes="**/*"/>
+		</delete>
+	</target>
+
+</project>
