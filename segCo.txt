@@ -1,3 +1,116 @@
-correct
-seg test1
-seg test2
+[5MOTS (15phr)]
+Elle a perdu du temps.
+Il parle de sa tata.
+Elle a lu un livre.
+Tu vas à la plage.
+Elle téléphone à ses amis.
+C est une belle journée.
+Ils ont de l énergie.
+Tu n es pas fatigué?
+Le chandelier s est éteint.
+Mistigri dort sous l arbre.
+J ai emprunté des livres.
+Elise suce de la réglisse.
+Elles ont cueilli des cerises.
+Ma mère lave le linge.
+La poule couve l œuf.
+[6 MOTS (15phr)]
+Je n aime pas les orages.
+Elle n a pas pu venir.
+Elle n a pas été surprise.
+Le jardinier ramasse les petits pois.
+L oiseau a fait son nid.
+Arthur s ennuie pendant les vacances.
+Papa tond l herbe du jardin.
+L ananas est un fruit exotique.
+L anniversaire de Paul est dimanche.
+Je choisis mes cadeaux de Noël.
+L écureuil roux grignote des noisettes.
+L otarie plonge dans le bassin.
+Pauline s est cassée l épaule.
+Ils ont glissé sur la glace.
+Donne moi la main pour traverser.
+[7 MOTS (15 phr)]
+Il sort de la salle de classe.
+Un renard se cache dans cette tanière.
+Il colle un timbre sur l enveloppe.
+L ouvrier travaille dur sur le chantier.
+Elle a acheté des lunettes de soleil.
+Nous aimons aller nous promener au parc.
+Papa passe l aspirateur dans la voiture.
+Pierre ramasse les légumes dans le potager.
+Le dresseur du cirque est tombé malade.
+Les éléphants s amusent avec leur trompe.
+Le poulain est sorti de son enclos.
+Le coq chante et agace le chat.
+Les pruneaux ont roulés sous le cageot.
+Nadège partira à la montagne cet été.
+Virginie nous a offert de délicieux biscuits.
+[8 MOTS (15phr)]
+Ce pull rayé rouge et noir m appartient.
+Zoé va à la plage avec sa famille.
+Des skieurs descendent la montagne à toute allure.
+La tempête a fait tomber ces arbres centenaires.
+La poule picore du grain dans le poulailler.
+Le garagiste répare la voiture de mon oncle.
+La maîtresse fait réciter la leçon aux élèves.
+Les enfants construisent une cabane dans le jardin.
+L écran de l ordinateur est en panne.
+La serveuse place dix assiettes sur la table.
+Martin a oublié son chapeau et sa canne.
+La pomme et la poire ont des pépins.
+Le cheval s est blessé à la patte.
+J ai acheté de la chair à saucisse.
+Cette année les tickets de bus sont chers.
+[9 MOTS (15phr)]
+Les voitures circulent à sens unique dans cette rue.
+Il boit du jus d orange au petit déjeuner.
+Le directeur félicite l excellent travail de ses ouvriers.
+Les ronces ont recouvert les ruines du vieux château.
+Le tracteur est tombé en panne dans le champ.
+Camille souffle les bougies de son gâteau d anniversaire.
+Le match de football est retransmis à la télévision.
+L horloge sonne toutes les heures de la journée.
+L ambulance transporte le jeune blessé à  l hôpital.
+Le vieux navire s est échoué en pleine mer.
+J ai vu de jolies mésanges dans la grange.
+Les melons poussent dans le champ d à côté.
+Dans la fanfare deux enfants jouent de la trompette.
+La ficelle de cuisine est rangée près des épices.
+Le canard observe la grenouille verte dans la mare.
+[10MOTS (15 phr)]
+Il m a envoyé une carte de ses dernières vacances. 
+La petite fille joue à la balançoire dans le jardin.
+A l aéroport un avion aterrit toutes les deux minutes.
+Les mouettes crient à l arrivée des bateaux de pêche.
+La fleuriste prépare un bouquet pour la fête des mères.
+Le photographe nous demande de rester tranquilles pour la photo.
+Avec les fraises ma tante fait des pots de confiture.
+Dans son fournil le boulanger prépare de la bonne brioche.
+Dans l atelier les menuisiers vernissent le bois des meubles.
+Sur l autoroute du sud l autocar transporte les touristes.
+J ai cueilli un bouquet de roses et de lilas.
+Je mets toujours un nuage de lait dans mon café.
+Tu prends ton manteau et tes gants sous le préau.
+Le garçon explore la grotte avec une lampe de poche.
+Ce film relate les batailles de la première guerre mondiale.
+[11 MOTS (6phr)]
+Aujourd hui les écoliers sont heureux de partir en promenade scolaire.
+Louise aime bien les gâteaux mais elle en mange beaucoup trop.
+Dans la brume on ne voit plus du tout le pont.
+Tu dois faire attention pour ne pas tomber de l échelle.
+L abeille butine les fleurs avant de rentrer à la ruche.
+Elle porte une jupe courte parce que c est l été.
+[12 MOTS(5phr)]
+A l automne les hirondelles s envolent vers des pays plus chauds.
+Les oreilles et le nez grandissent tout au long de la vie.
+Dans les zones de bocage les prairies sont propices à l élevage.
+Le car vient d arriver avec un quart d heure de retard.
+Le soir de Noël tous les enfants attendent minuit pour les cadeaux.
+[13 MOTS(2phr)]
+Dans les régions étendues sans arbres les agriculteurs font souvent pousser des céréales.
+Au fond du jardin les enfants s amusent à se raconter des charades.
+[14 MOTS (1phr)]
+Les tracteurs et les machines agricoles rendent le travail moins pénible et plus rapide.
+[19MOTS(1phr)]
+Les habitants de la campagne vivent le plus souvent dans des villages au milieu des terres qu ils cultivent.

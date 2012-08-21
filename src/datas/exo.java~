@@ -13,8 +13,7 @@ public class exo {
 	private ArrayList<String> pedCo;
 	private ArrayList<String> segCo;
 	private ArrayList<String> bmCo;
-	/*lit les fichier txt et les mets dans larraylist 		correspondantes
-	**/
+	
 	public exo(){
 		smsInco=exo.lire("smsInco.txt");
 		pedInco=exo.lire("pedInco.txt");
@@ -56,9 +55,7 @@ public class exo {
 	public ArrayList<String> getBmInco() {
 		return bmInco;
 	}
-	
-	/*lit le fichier nom passer en parametre et retourne une 		arraylist du contenu de ce dernier
-	**/
+
 	public static ArrayList<String> lire(String nFichier){
 		ArrayList<String> res = new ArrayList<String>();
 		try{
@@ -77,18 +74,11 @@ public class exo {
 		return res;
 	}
 	
-	/**int n correspond a lexercice
-	et la string passer en parametre est la string a rechercher dans les fichiers correcte
-0=> exo sms
-1=> exo ped
-2=>exo seg
-3=> exo bon mot
-**/
 	public boolean comparer(String s,int n){
 		boolean res=false;
 		int i=0;
 		if (n==0){
-			while(res==false && i<smsCo.size()){
+			while(res==false && i<pedCo.size()){
 				if (s.equals(smsCo.get(i))){
 					res=true;
 				}
@@ -104,7 +94,7 @@ public class exo {
 				}
 			}
 				else if (n==2){
-					while(res==false && i<segCo.size()){
+					while(res==false && i<pedCo.size()){
 						if (s.equals(segCo.get(i))){
 							res=true;
 						}
@@ -112,7 +102,7 @@ public class exo {
 					}
 				}
 					else if (n==3){
-						while(res==false && i<bmCo.size()){
+						while(res==false && i<pedCo.size()){
 							if (s.equals(bmCo.get(i))){
 								res=true;
 							}

@@ -1,3 +1,61 @@
-Incorrect
-sms test1
-sms test2
+[niveau 1]
+Salu. Sera-tu la samedi prochin pour alé o sinéma voir le dernié film d'orreur?
+Di-moi leur a lakel ton trin arivra a la gar dimenche.
+Le proféceur de matématik surveye un examen demin matin. Son cour sera remplacé par un cour d'anglé.
+Nou donon troi peti cha. Il son trè mignon é ador joué. De son dé femèl griz, le troisième è un mâl tigré.
+Le moi prochin, le vilaje voisin organiz un vid-grenié sur la place de légliz. Vené nombreu !
+Bienvenu a la fèt forène ! Lé manèj son a cink euro mé son gratui pour lé enfan de moin de catr an.
+Anonce importante ! Suit o avèrs d dernié jour, lé berj du fleuv son inondé. Èl  son donc fermé o public.
+Lé sold dété comenceron le vinsèt juin é von duré sink semèn. Profité dé nombreuz réduxion !
+Le trin a destination de Pari arivra en gar dan di minut. Lé passagé son apelé a ce rendr sur le ké numéro douz.
+Jeun adolécen de kinz an cherch un travail pour lé vacans dété : jardinaj, bricolaj, pintur, entretien …
+Jai pacé une trè bone soiré. A biento !
+Alor koi de neuf ? Ca va bien ? Devine dou je técri ? De Deauville ! Je sui o bor de la mer avec ma copine. Lo né pa chod mé on sé kan mem bégné !
+Salu j tapel demin é si té disponibl on s boi 1 café.
+Jété en trin de pensé a toi. Tu m mank bocou tu cè. On se rvoi kan ?
+Jé rien compri o cour distoir de lindi dèrnié. Tu croi ke tu pourè mexpliké ?
+Je sui sur ke je sui mèyeur ke mon ortofonist pour écrir un méssaj.
+Désolé pour le wikend prochin. Je ne pe pa me libéré. Jèd mon pèr a tayé lé é.
+Jarèt pa di pensé. Vivmen ke lé vacans ariv. Je vé bocé un pe pour patienté.
+Lé livr son bocou moin éficas ke le net pour trouvé se kon chRch.
+Set objè cé kacé pendan le transport.
+Dan son énerveman cet fam na pa vu la biciclète ki arivè.
+Veuyé agréer, mecieu, mé salutation lé méyeur.
+Lorsk la bal é arivé contr la vitr de la cuizin, jé u tèlmen peur ke jé glicé é sui tombé lourdemen.
+Dan une semène, joré sufizamen dargen pour macheté dé nouvel chossur.
+La cigal, ayan chanté tou lété, se trouva for dépourvu kan la biz fu venu.
+Mètr corbo, sur un arbr pèrché, tenè en son bek un fromaj. Mètr renar, par lodeur, aléché, lui lin a pe prè ce langaj.
+La météo a anoncé une chaleur torid. La population è aplé a bien s'idraté é se protégé du soleil.
+Ce matin, jé du kité mon buro pour me rendr a la bank.
+Le pèr Noël a été agrécé le wikend dernié a Alès dan le Gard. Motif : il na pa distribué sufizamen de bonbon a une band dado.
+Lé gen mente toute lé uit minut en moyèn, ce ki fé de cen mensonj par jour.
+[niveau 2]
+Slt. Sra tu la samdi proch1 pr alé o ciné voir le dRnié film doreur ?
+Dimwa lH a lakL ton tr1 arivra a la gar dimench.
+Le prof 2 maTmatik survèy 1 exam 2m1 mat1. Son cour sra renplaC par 1 cour danglé.
+Nou donon  3 pti cha. Il son trè minion é ador joué. 2 son D femèl griz, le 3me è 1 mal tigré.
+Le moi proch1, le vilaj voiz1 organiz 1 vidgrenié sur la plaS 2 légliz. Vné nombrE !
+Bi1vnu a la fèt forN ! Lé manej son a 5€ mé son gratui pr lé enfen 2 - 2 4 an.
+AnonS 1portente ! S8t o avRs D dRnié jour, lé bRj du fleuv son inonD. L son dc fRmé public.
+Lé sold DT comensron le 27 juin é von duré 5 smN. ProfiT D nombrEz réduxion !
+Le tr1 a dStinaSion 2 Pari arivra en gar den 10 min. Lé paSaG son aplé a srendr sur le ké n12.
+Jeun ado 2 15 an chRch 1 travail pour lé vac dété : jardinaj, bricolaj, pintur, entrti1...
+G paC 1 trè bone soiré. A bi1to !
+Alor koi 2 9 ? sava bi1 ? 2Vin dou jTcri ? 2 Deauville ! Jsui o bor 2 la mR avek ma copiN. Lo é pa chod mé on C kan mm Bgné !
+Slt jtapL 2m1 é si T dispo on sboi 1 Kfé.
+GT entr1 2 penC a twa. Tu mmank bcp tu sè. On s'rvoi qd ?
+G ri1 kompri o cour distoir 2 l1di dRnié. Tu croi k tu pourè mexpliké ?
+Js8 sur ke js8 mèyeur kmon ortofonist pr écrir 1 msg.
+Dsl pr le WE proch1. Jpe pa m liBré. Jèd mon pèr a tayé lé é.
+Lé livr C bcp – éfiKs k'le net pr trouV skon chRch.
+7 objè C KC pendt l transpor.
+Ds son énRvemt cte fam na pa vu la biciclèt ki ariV.
+Veuyé agréé, msieu, mé salutation lé méyeur.
+Lorsk la bal é ariV contr la vitr 2 la cuizin, G U tLmen peur ke G gliC é s8 tomB lour2men.
+Ds 1 smN, joré sufizamen dargen pr machT D nouvL chossur.
+La cigal, ayan chanT tt lété, se trouva for Dpourvu qd la biz fu venu.
+Mètr corbo, sur 1 arbr pRché, tené en son bec 1 fromaj. Mètr renar, par lodeur, aléché, l8 tin a pe pré se langaj.
+La méTo a anonC 1 chaleur torid. La population è aplé a bi1 sidraT é se proTG du soleil.
+Smat1, G du kiT mon buro pr me rendr a la bank.
+Le pR Noël a éT agréC le WE dRnié a Alès ds le Gard. Motif : il na pa distribué sufizamen 2 bonbon a 1 band dado.
+Lé gen mente tte lé 8 min en moyN, ski fé 200 mensonj par jour.

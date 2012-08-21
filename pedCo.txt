@@ -1,3 +1,118 @@
-correct
-ped test1
-ped test2
+[5 mots (15 phr)]
+Nous partons en vacances demain.
+La ménagère repasse son linge.
+Robert veut manger du veau.
+Elle porte une robe verte.
+Il part avec sa copine.
+Tu vas à la plage.
+Tom va à la bibliothèque.
+Karine a lu un livre.
+Mattis téléphone à ses amis.
+Les abeilles fabriquent du miel.
+Fabien a pêché des crevettes.
+Le gamin fait la galipette.
+Le bambin prend son bain.
+Le concombre coûte un euro.
+Le lac est peu profond.
+[6 mots (15phr)]
+Les chemins sont pleins de boue.
+Les magasins sont fermés le dimanche.
+Il s'arrête devant la boutique.
+La porte est fermée à clé.
+Elle se coiffe avec une brosse.
+Mamie a acheté de la farine.
+Elle n'a pas pu venir.
+Elle cueille une tomate encore verte.
+Elle cueille encore une tomate verte.
+Elle écrit une lettre à Lili.
+Vincent a bu du lait chocolaté.
+Madame Tati porte une jupe orange.
+Elle arrive en bus à midi.
+Le facteur nous apporte le courrier.
+Nous partons en vacances en Bretagne.
+Le beurre fond dans la casserole.
+[7mots (16phr)]
+J'aimerais savoir combien coûte ce foulard.
+La maîtresse propose un exercice aux élèves.
+Mes amis organisent une fête samedi soir.
+Un lion s'est échappé du zoo.
+Mon voisin est parti en vacances hier.
+Maman dépose une lettre à la poste.
+La chèvre broute l'herbe du pré.
+Les enfants aiment jouer avec les animaux.
+Ils tiennent leurs sandales à la main.
+Je vais essuyer et ranger la vaisselle.
+Tu ne dois pas regarder la télévision.
+Nous sortons de la salle de classe.
+Elle déjeune au restaurant tous les midis.
+Je cueille des fleurs dans le jardin.
+Mes parents ont taillé tous les arbres.
+Les fleurs du jardin sentent très bon.
+[8 mots (15phr)]
+Les nuits sont belles au mois d'août.
+Il a posé le plat sur la table.
+La tempête a brisé le mât du navire.
+Le naufrage du bateau a fait quarante victimes.
+Mon frère a une jambe dans le plâtre.
+La voiture est tombée en panne d'essence.
+Je téléphone à ma sœur avant de partir.
+Le chat gratte la porte avec ses griffes.
+Je vais à la boulangerie acheter le pain.
+Il habite dans le quartier latin à Paris.
+Je prends mon parapluie car il pleut dehors.
+Le candidat a été primé par le jury.
+Le poivre me pique et me fait éternuer.
+Notre coiffeur habite au bord de la Loire.
+J'ai acheté un disque de musique africaine.
+[9 mots (15phr)]
+En hiver les routes sont souvent couvertes de verglas.
+L'eau est rationnée à cause de la sécheresse.
+Mon père a garé la voiture dans le garage.
+Il fait très chaud dehors car le soleil brille.
+Je pars en vacances chez mamie tout l'été.
+Il n'a pas fait attention à la marche.
+Le sable blanc et chaud me brûle les pieds./Le sable chaud et blanc me brûle les pieds.
+Les enfants font une grande ronde pendant la récréation.
+La vipère se faufile rapidement entre les herbes sèches.
+L'épicerie est située à proximité de la pâtisserie.
+Le numéro du clown est attendu par le public.
+L'avalanche a emporté une dizaine de skieurs autrichiens.
+La balançoire est accrochée à la plus haute branche.
+Il est dangereux de conduire une moto sans casque.
+Athènes possèdent des vieux temples grecs dédiés aux dieux.
+[10 mots (15phr)]
+Je voudrais voir la maison dont tu m'as parlé.
+Ma cousine a cassé son joli vélo bleu en glissant.
+Vous regardez la télévision pour être au courant des informations.
+Le vitrier lave les vitres qui sont vraiment très sales.
+La fleuriste coupe des fleurs pour fabriquer un joli bouquet.
+Les ouvriers remettent du gravier dans les allées du parc.
+Le bureau du directeur se trouve au fond du couloir.
+Elle tricote une écharpe pour le fils de la voisine.
+Sa vieille tante lui écrit une longue lettre chaque semaine.
+La cuisinière prépare un gâteau au chocolat pour le goûter.
+Chaque année la tour Eiffel attire des milliers de touristes.
+Il a découvert un magnifique château fort en se promenant.
+Il a découvert un château fort magnifique en se promenant.
+Arnaud s'est perdu dans les ruelles de la ville.
+Depuis quatre heures mon frère dort paisiblement dans le canapé.
+Les chats ronronnent de plaisir devant le feu de cheminée.
+[11 mots (6phr)]
+Nous passons nos vacances dans un petit camping près de Paris.
+Nous sommes tombés en panne sur le bord de la route.
+Jean est malade parce qu'il a mangé trop de chocolat.
+Depuis que nous sommes rentrés du travail nous regardons la télévision.
+Ma sœur prend le bus scolaire pour se rendre au collège.
+Je viendrai te voir seulement si je ne suis plus malade.
+[12 mots (3phr)]
+Le chasseur est mécontent car il n'a pas tué de perdrix.
+Daniel jette un morceau de pain dans la trompe de l'éléphant.
+La gelée de groseilles que tu as mise en pots est délicieuse.
+Le nez de Pinocchio s'allongeait à chaque fois qu'il mentait.
+[13 mots (2phr)]
+J'ai acheté un vélo parce que je voulais faire plus de sport.
+Il ne nous reste plus rien du tout à manger dans le réfrigérateur.
+[14 mots(3phr)]
+Il ne veut pas de ce chapeau parce qu'il le trouve trop petit.
+Je ne serai pas là la semaine prochaine parce que ce seront les vacances.
+Il y a beaucoup de fêtes car c'est le bicentenaire de la Révolution.

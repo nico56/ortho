@@ -1,3 +1,210 @@
-Incorrect
-bm test1
-bm test2
+[P/B]
+La _____ picore du grain.{poule/boule}
+Le champion de bowling fait tomber toute les quilles avec sa _____.{poule/ boule} 
+Mamie fait un gâteau à la _____.{poire/boire}
+Le ministère de la santé recommande de _____ 2 litres d'eau par jour.{poire/boire}
+Le pêcheur a fait une belle _____.{prise/brise}
+Au lever du jour, une ____ légère fait remuer les feuilles des arbres.{prise/brise}
+Papa m'a demandé d'aller acheter du ____.{pain/bain}
+Le petit garçon s'amuse dans son ____.{pain/bain}
+Les jeunes font un feu de ____ sur la plage.{bois/pois}
+Cette fille très coquette porte une robe à ____.{bois/pois}
+La ménagère range les ______ dans le placard de la cuisine.{palais/balais}
+Les révolutionnaires ont détruit le _____ du roi.{palais/balais}
+Ces roses ________ sentent merveilleusement bon.{planches/blanches}
+Les acteurs répètent une dernière fois avant de monter sur les ________du théâtre.{planches/blanches}
+Le joueur de football fait une _____ stratégique à son coéquipier.{passe/basse}
+Ton magazine est sur la table _____ du salon.{passe/basse}
+Toutes les espagnoles sont ______.{prunes/brunes}
+Sa grand-mère fait de très bonnes confitures de ______.{prunes/brunes}
+Peux-tu m'indiquer la gare la plus ______ d'ici?{proche/broche}
+Ma tante m'a offert une ______ à Noël.{broche/proche}
+[F/V]
+Au moyen âge, les ____ animaient les repas du roi.{fous/vous}
+Habitez -____ toujours à Toulouse?{fous/vous}
+Le générique défile longuement à la ___ du film.{fin/vin}
+Le serveur apporte à table la carafe de ___.{fin/vin}
+La fenêtre n'arrête pas de _______ à cause du courant d'air.{s'ouvrir/souffrir}
+Les crampes au mollet lui font affreusement ________.{s'ouvrir/souffrir}
+La ______ de cœur est une opération très délicate.{greffe/grève}
+Les ouvriers ont décidé de faire _____ pour manifester leur colère.{greffe/grève}
+Les hélices de l'éolienne tournent grâce au ____.{vent/fend}
+Le bûcheron ____ du bois dans la forêt.{vent/fend}
+Au 14 juillet, les jeunes filles ____ danser au bal des pompiers.{vont/font}
+Les hirondelles ____ leur nid sous le toit.{vont/font}
+Les _____ sont dans la grange.{veaux/faux}
+Le voleur est reparti avec de ____ billets.{veaux/faux}
+Des promotions sont à saisir au rayon ____.{frais/vrais}
+Les policiers ont retrouvé les ____ tableaux de Picasso volés il y a 5 ans.{frais/vrais}
+La _____ des téléphones portables a explosé au mois de décembre.{vente/fente}
+Il y a une _____dans la porte, on voit à travers.{fente/vente}
+A l'automne, Les ________ rougissent et tombent des arbres.{feuilles/veuilles}
+Tu fais tes devoirs que tu le _____ ou non.{feuilles/veuilles}
+[M/N]
+Le voleur a été pris la ____ dans le sac par les policiers.{main/nain}
+Le ____ est un personnage fréquent dans les contes pour enfants.{main/nain}
+Une ____ et son petit galope dans le pré.{mule/nulle}
+Je trouve la dernière production de Spielberg vraiment ____. Je n'ai pas du tout aimé!{mule/nulle}
+S'il ne pleut pas bientôt, ces plantations vont ______ de sécheresse.{mourir/nourrir}
+La mésange apporte quelques vers de terre à ses petits pour les _______.{mourir/nourrir}
+Les boussoles indiquent toujours le ____.{mord/nord}
+Le lion ____ enfin sa proie après une course poursuite dans la savane.{mord/nord}
+Mon voisin a vendu son ___ au marché pour 100€.{âme/âne}
+Ce témoin est honnête, il parlera en son ___ et conscience.{âme/âne}
+Attention, ce champ est ____	.{mimé/miné}
+Cet humoriste a ____ des personnalités à la perfection.{mimé/miné}
+Ecrivez votre ___ en haut de la copie!{mon/nom}
+J'ai oublié ____ parapluie chez le médecin.{mon/nom}
+Le cambrioleur s'enfuit après avoir _______ le propriétaire de la maison.{assommer/a sonné}
+Quelqu'un ________ à la porte!{assommer/a sonné}
+Il faut que ____ allions à la bibliothèque rendre les livres.{mous/nous}
+Ces biscuits sont tout ___.{mous/nous}
+Cette jeune fille est ______ pour son âge.{mâture/nature}
+Ils passent des vacances paisibles au cœur de la ______.{mâture/nature}
+[T/D]
+Il faut ____ s'abriter, il commence à pleuvoir.{vite/vide}
+Le frigo est ____, il est temps d'aller faire quelques courses.{vite/vide}
+Vincent est malade et doit prendre un sirop contre la ____.{toux/doux}
+Ce nouveau pull en cachemire est très ____.{toux/doux}
+Les enfants ont joué _____ la matinée dans leur chambre.{toute/doute}
+Le juge _____ de la culpabilité du suspect.{toute/doute}
+Ce piano est vieux, des _______ sont même cassées.{touches/douches}
+Papa prend sa _____ en revenant de la salle de sport.{touche/douche}
+Le toit de la maison s'est effondré, les ______ n'ont pas supporté la tempête.{poutres/poudres}
+La maquilleuse applique de la ____ sur le visage de la mannequin.{poutre/poudre}
+Le maraîcher ____ détacher délicatement les abricots mûrs de l'arbre pour ne pas les abîmer.{toit/doit}
+Des pigeons roucoulent sur le _____ de la grange.{toit/doit}
+L'infirmière place un _____ dans la plaie du patient.{train/drain}
+Pour rejoindre Nantes à Toulouse, le voyage en ____ dure 7 heures.{train/drain}
+Le jardinier range son ______ dans le cabanon.{râteau/radeau}
+Les naufragés tentent de rejoindre l'île sur leur ______.{râteau/radeau}
+L'élève lit un extrait de Molière sur un ___ monotone.{ton/don}
+Le gagnant de la loterie a fait un ___ de 10 000€ à une association.{ton/don}
+En été, on se couche plus ____ pour profiter de la chaleur.{tard/dard}
+Certains insectes comme l'abeille possèdent un ____ pour se défendre.{tard/dard}
+[K/G]
+L'architecte ______ un trait mal dessiné.{comme/gomme}
+Cet enfant est sage ______ une image.{comme/gomme}
+L'orang-outan dort au fond de sa ____.{cage/gage}
+Il lui donne les clés de sa maison en ____ de confiance.{cage/gage}
+Mon _____ et ma tante viendront manger dimanche.{oncle/ongle}
+Elle s'est cassé un _____ en bricolant.{oncle/ongle}
+Le chien a laissé une _____ sur le trottoir.{crotte/grotte}
+Les pirates s'aventurent dans la _____ à la recherche d'un trésor.{crotte/grotte}
+Les enfants sortent de la _____ pour la récréation.{classe/glace}
+Mon parfum de _____ préféré est la vanille.{classe/glace}
+Les enfants ______ en rentrant de l'école.{coûtent/goûtent}
+Ces chaussures _____ cher!{coûtent/goûtent}
+L'athlète a fait une _____ d'asthme à la fin de la course.{crise/grise}
+Le gendarme met une amende sur la voiture _____.{crise/grise}
+La ____ de la rivière a causé de nombreux dégâts.{crue/grue}
+Les _____ du chantier élèvent vers le ciel.{crues/grues}
+Les lycéens attendent avec impatience les résultats du ___.{bac/bague}
+Mon cousin a acheté une magnifique _____ pour sa fiancée.{bac/bague}
+Maman laisse ________ les pâtes avant de les servir à table.{écouter/égoutter}
+Les élèves doivent _______ les instructions de la maîtresse.{écouter/égoutter}
+[CH/J]
+La petite fille a deux grains de beauté sur la ____ gauche.{chou/joue}
+Ta grand-mère fait une très bonne soupe aux _____.{choux/joues}
+Le soldat se ______ pour ne pas être vu de l'ennemi.{cache/cage}
+Le colibri gazouille dans sa jolie _____.{cache/cage}
+Le plombier ______ la fuite d'eau sous l'évier.{bouche/bouge}
+Le tremblement de terre a fait ______ les maisons.{boucher/bouger}
+Le professeur inscrit la note dans la _____.{marche/marge}
+Les randonneurs effectuent une ______ à pied de 12 kilomètres.{marche/marge}
+Le maraîcher installe ses ________ de fruits sur son étal au marché.{cachettes/cagettes}
+Thibaut dissimule ses bonbons dans sa ________ secrète.{cachette/cagette}
+Ces vieux chiffons sont bons _______.{acheter/à jeter}
+Il faut _______ des oranges pour le petit-déjeuner.{acheter/à jeter}
+Ce restaurant propose un _____ important de bons plats.{choix/joie}
+Quelle ____ de vous revoir!{choix/joie}
+L'écureuil ramasse des glands sous le _____.{chêne/gêne}
+Cette ceinture me ____, elle est trop serrée!{chêne/gêne}
+J'ai commencé la danse à _____ de 6 ans.{lâche/l'âge}
+Ne ____ pas la laisse sinon le chien va s'enfuir.{lâche/l'âge}
+Son grand-père s'est fait opérer de la ______.{hanche/ange}
+Les _____ et les démons sont des personnages imaginaires.{hanches/anges}
+[S/Z]
+A marée _____, les pêcheurs vont ramasser les huîtres.{basse/base}
+Les pyramides d'Egypte ont une ____ carrée.{basse/base}
+En 1943, les ______ remportent la bataille de Stalingrad.{russes/ruses}
+Il est plein de ____ et de malice.{russe/ruse}
+Le chat dort paisiblement sur son _______ au coin du feu.{coussin/cousin}
+Ton ______ est parti en voyage en Australie.{coussin/cousin}
+ Le fleuve regorge de _______ à la chair tendre.{poissons/poisons}
+Juliette but le ______ que contenait la fiole.{poisson/poison}
+Le serveur nous apporte la carte des _______.{desserts/déserts}
+La nuit, la température chute dans le ______ du Sahara.{dessert/désert}
+L'exposition canine présente des ____ de chiens très recherchées.{rases/races}
+Le coiffeur ____ la nuque du garçon.{rase/race}
+Le joueur avance son pion de 3 _____ après avoir lancé le dé.{casses/cases}
+Audrey pleure car sa poupée est ______.{cassée/casée}
+Papa ____ mon cadre contre le mur.{visse/vise}
+L'archer doit _____ le centre de la cible pour gagner la compétition.{visser/viser}
+Mon frère _______ du 43.{chausse/chose}
+C'est une _____ ronde et jaune qui rebondit contre le sol.{chausse/chose}
+Avec l'âge, la vue et l'audition ________.{baissent/baisent}
+Le chevalier dépose un ______ sur la main de la princesse.{baisser/baiser}
+[P/T]
+Le magicien au _______ pointu réalise un tour de magie spectaculaire.{chapeau/château}
+Les ruines du _______ attirent les touristes chaque année.{chapeau/château}
+Ce bolide rouge ____ une fortune.{coupe/coûte}
+Pour faire la soupe, il faut ______ les légumes en morceaux.{couper/coûter}
+Durant l'Antiquité, les romains parlait le _____.{lapin/latin}
+Roger donne à manger à ses ______ dans les clapiers.{lapins/latins}
+L'inspecteur enquête sur les traces de ___ retrouvées sur les lieux du crime.{pas/tas}
+Le vent a dispersé le ___ de feuilles mortes.{pas/tas}
+Julie _____ ses vêtements dans la valise pour réussir à la fermer.{passe/tasse}
+Le livreur de journaux _____ devant la maison à 6h30.{passe/tasse}
+La nourrice _____ le landau dans les allées du parc.{pousse/tousse}
+Matthieu est malade il n'arrête pas de ______.{pousser/tousser}
+Christian a renversé son verre de vin rouge et a tâché la _____.{nappe/natte}
+Les femmes africaines ont pour tradition d'être coiffées de ______.{nappes/nattes}
+Les bagagistes de l'aéroport chargent les valises dans la _____.{soupe/soute}
+Il faut manger de la _____ pour grandir.{soupe/soute}
+A la chandeleur, nous faisons sauter les ______ dans la poêle.{crêpes/crêtes}
+La _____ du Mont Blanc culmine à 4810 mètres.{crêpe/crête}
+Vincent est malade et doit prendre un sirop contre la ____.{poux/toux}
+Le chimpanzé aime chercher les _____ de ses congénères.{poux/toux}
+[B/D]
+La caissière me donne un ___ de réduction.{bon/don}
+ Mozart avec un ___ pour la musique dès son enfance.{bon/don}
+Je ____ une citronnade en terrasse.{bois/dois}
+Je ____ finir ce travail avant la fin de la séance.{bois/dois}
+Il _____ ses vieux jouets à recycler.{bonne/donne}
+Il a tiré la _____ carte et a gagné la partie.{bonne/donne}
+Laura prend rapidement sa ______ avant le dîner.{bouche/douche}
+Arthur rince sa ______ après s'être brossé les dents.{bouche/douche}
+En voulant traverser le champ, il a marché dans la _____ de vache.{bouse/douze}
+Ce bouquet de fleurs compte _____ jonquilles.{bouse/douze}
+Il l'a prise dans ses ____ pour la consoler.{bras/drap}
+J'aide maman a plié les ______.{bras/draps}
+La femme bronze au ____ de la piscine.{bord/dort}
+La femme ____ près de la piscine.{bord/dort}
+Deux vieilles dames discutent, assises sur un ____.{banc/dans}
+Nous embarquerons ____ 2 heures.{banc/dans}
+L'otarie jongle avec la _____ sous les applaudissements du public.{balle/dalle}
+Attention de ne pas tomber! Cette _____ est cassée!{balle/dalle}
+Mon frère est parti faire ses études à l'autre ____ du monde.{bout/doux}
+Le tissu que je viens d'acheter est vraiment très ____.{bout/doux}
+[F/S]
+La fermière donne du ____ à ses vaches et ses moutons.{foin/soin}
+L'infirmière prend ____ de ses patients très malades.{foin/soin}
+Ce sportif a fourni beaucoup d'_______ pour atteindre le podium.{efforts/essors}
+Cette nouvelle entreprise est en plein _____ financier.{effort/essor}
+Au moyen âge, les ____ animaient les repas du roi.{fous/sous}
+Auparavant, une baguette de pain coûtait 1 franc et 6 ____.{fous/sous}
+Maman étend le linge mouillé sur le ___.{fil/cil}
+Les filles se maquillent les ____ avec du mascara.{fils/cils}
+Jean de la Fontaine a écrit de nombreuses _____.{fables/sables}
+Emma pleure car son château de _____ s'est écroulé.{fable/sable}
+Le kangourou est un animal qui _____ jusqu'à 3 mètres 50.{faute/saute}
+L'institutrice corrige les ______ que les élèves ont faites à la dictée.{fautes/sautes}
+Tout le monde souhaite faire un tour de manège à la _____.{foire/soir}
+Une chouette hulule tous les ______ sous ma fenêtre.{foires/soirs}
+Le facteur m'a demandé le ____ de mon colis.{refus/reçu}
+Nicolas voulait demander de l'aide à son professeur, mais il a eu peur d'un _____.{refus/reçu}
+Ne _______ pas les escalier à toute vitesse! Tu vas tomber!{défends/descends}
+Les soldats ________ la forteresse à coups de canon.{défendent/descendent}
+La sorcière maléfique a jeté un redoutable ____ au villageois.{fort/sort}
+Ce cycliste est très _____! Il a terminé la course en moins de 3h.{fort/sort}
